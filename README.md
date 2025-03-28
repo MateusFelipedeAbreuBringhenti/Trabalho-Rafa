@@ -13,6 +13,14 @@
 ### Visualização 3D (3D Viewer)
 #### Utilizado para inspecionar virtualmente o design final da PCB antes da fabricação.
 -------------------------------------------------------------------------------------------------------
+## Processo
+
+#### Primeiro é feito a retificação
+#### Logo na sequencia é feita a suavização da tensão 
+#### Depois utiliza o 7805 para estavbilizar a saida a 5V
+#### Para indicar que o circuito está operando corretamente, foi adicionado um LED
+#### O led confirma que a saída está ativa.
+-------------------------------------------------------------------------------------------------------
 ## Aplicações
 
 #### Esse circuito pode ser usado em fontes de alimentação para microcontroladores, sensores e pequenos dispositivos eletrônicos que operam em 5V.
