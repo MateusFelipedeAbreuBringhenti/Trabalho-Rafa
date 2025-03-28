@@ -15,8 +15,8 @@
 -------------------------------------------------------------------------------------------------------
 ## Processo
 
-#### Primeiro é feito a retificação
-#### Logo na sequencia é feita a suavização da tensão 
+#### Primeiro é feito a retificação com a ponte retificadora (BR1)
+#### Logo na sequencia é feita a suavização da tensão C1 (1µF) e C2 (22nF)
 #### Depois utiliza o 7805 para estavbilizar a saida a 5V
 #### Para indicar que o circuito está operando corretamente, foi adicionado um LED
 #### O led confirma que a saída está ativa.
